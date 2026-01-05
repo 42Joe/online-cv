@@ -32,7 +32,7 @@ sidebar:
   mastodon: @joe42@graz.social # Please include your full Mastodon link here.
   # hackerrank: # Please provide your HackerRank username.
   # leetcode: # Please provide your LeetCode username.
-   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: /assets/images/2025_ModernCV_Joe_5.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
   orcid: 0000-0002-8550-2952
   linkedin: josef-schneider-27435743
   researchgate: Josef-Schneider-3
