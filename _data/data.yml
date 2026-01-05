@@ -29,11 +29,14 @@ sidebar:
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: joe42@graz.social # Please include your full Mastodon link here.
+  mastodon: @joe42@graz.social # Please include your full Mastodon link here.
   # hackerrank: # Please provide your HackerRank username.
   # leetcode: # Please provide your LeetCode username.
-  # pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
   orcid: 0000-0002-8550-2952
+  linkedin: josef-schneider-27435743
+  researchgate: Josef-Schneider-3
+  
 
   languages:
     title: Languages
@@ -45,7 +48,7 @@ sidebar:
       level: Professional
 
     - idiom: Arabic
-      level: Really bad
+      level: Really poor
 
   interests:
     title: Interests
